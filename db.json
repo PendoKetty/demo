@@ -4,25 +4,7 @@
     "data": {
         "order_id": "2",
         "payment_status": "paid",
-        "tap_id": "0",
-        "items": [
-            {
-                "id": "2",
-                "volume": "20",
-                "quantity": 1
-            },
-            {
-                "id": "3",
-                "volume": "10",
-                "quantity": 1
-            },
-            {
-                "id": "4",
-                "volume": "5",
-                "quantity": 1
-            }
-        ]
-    },
-    "message": "Order Retrived Successfully"
+        "tap_id": "0"
+    }     
 }
 
